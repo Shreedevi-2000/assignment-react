@@ -1,5 +1,4 @@
 I developed this assignment using react project, and I don't have work experience on react but i tired  my best,
-I tried to complete the given assignment as yours required 
 
 To run a React project, you can follow these steps:
 
